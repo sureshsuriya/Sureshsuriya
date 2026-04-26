@@ -1,29 +1,24 @@
-<h1 align="center">Hi 👋, I'm Suresh P</h1>
-<h3 align="center">I am a backend wizard, passionate about code</h3>
-<img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif">
+# 💫 About Me:
+<br>🎓 B.Sc Computer Science Graduate from **Bishop Heber College**<br><br>💼 Former **Software Developer Intern at CDIS**<br><br>🔭 Worked on **HEPTA (Heber e-Portal Template for AQAR)** – a dynamic institutional web portal<br><br>💻 Strong in **Backend Development** using **Django, PHP, and Java**<br><br>🌱 Currently learning **Java Full Stack Development (Spring Boot + React)**<br><br>📊 Interested in **Data Analytics, Problem Solving, and Scalable Systems**<br><br>🧠 Practicing **DSA & coding** on HackerRank and LeetCode<br><br>🎯 Goal: To become a **Java Full Stack Developer** and build real-world applications<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshsuriya&label=Profile%20views&color=0e75b6&style=flat" alt="sureshsuriya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suresh-p-822b43230) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sureshsurey4@gmail.com) 
 
-- 🔭 I’m currently working on **HEPTA**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sureshsuriya&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sureshsuriya&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sureshsuriya&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **javascript**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sureshsuriya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **suresh958510@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suresh p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh p" height="30" width="40" /></a>
-<a href="https://instagram.com/suresh_1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suresh_1110" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sureshsurey4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sureshsurey4" height="30" width="40" /></a>
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=sureshsuriya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sureshsuriya&show_icons=true&locale=en&layout=compact" alt="sureshsuriya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshsuriya&show_icons=true&locale=en" alt="sureshsuriya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshsuriya&" alt="sureshsuriya" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
