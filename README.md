@@ -164,7 +164,7 @@ Institutional web portal built during the CDIS internship at Bishop Heber Colleg
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sureshsuriya&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=sureshsuriya&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
