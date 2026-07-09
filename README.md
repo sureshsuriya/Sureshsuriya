@@ -143,39 +143,14 @@ Institutional web portal built during the CDIS internship at Bishop Heber Colleg
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
+
+*Self-generated daily via GitHub Actions — no third-party server dependency, so it never breaks from rate limits or billing issues on someone else's free tier.*
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sureshsuriya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=sureshsuriya&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=7aa2f7&currStreakLabel=c0caf5"/>
+<img width="100%" src="https://raw.githubusercontent.com/sureshsuriya/sureshsuriya/main/metrics.svg"/>
 
-<br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshsuriya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5"/>
-
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-winning.vercel.app/?username=sureshsuriya&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
-
-<br/>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sureshsuriya&theme=tokyo-night&hide_border=true&bg_color=1a1b26"/>
 </div>
 
 <br/>
