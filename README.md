@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=220&section=header&text=Suresh%20P&fontSize=55&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Python%2FDjango%20%C2%B7%20React&descAlignY=55&descSize=17&descColor=c0caf5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=220&section=header&text=Suresh%20P&fontSize=55&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Python%2FDjango%20%C2%B7%20React&descAlignY=55&descSize=17&descColor=c0caf5" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Java+%2B+Spring+Boot;Python%2FDjango+Engineer;React+%7C+MySQL+%7C+MongoDB;GSSoC+2026+Open+Source+Contributor" alt="Typing SVG" />
@@ -148,7 +148,7 @@ Institutional web portal built during the CDIS internship at Bishop Heber Colleg
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sureshsuriya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshsuriya&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=7aa2f7&currStreakLabel=c0caf5"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=sureshsuriya&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=7aa2f7&currStreakLabel=c0caf5"/>
 
 <br/>
 
@@ -218,6 +218,6 @@ Institutional web portal built during the CDIS internship at Bishop Heber Colleg
 
 *"Code is read far more often than it's written — I try to make both count."*
 
-<img src="https://capsule-render.com/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=100&section=footer" width="100%"/>
 
 </div>
