@@ -1,104 +1,93 @@
-<div align="center">
+# Hi, I'm Suresh 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Suresh%20P&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Python%2FDjango%20%C2%B7%20React&descAlignY=55&descSize=16&descColor=c0caf5" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Suresh Suriya — Full-Stack Developer" src="dark.svg" width="100%">
+</picture>
 
-</div>
+<br/>
 
-# 👋 Suresh P
+## 🧑‍💻 About Me
 
-<p align="left">
-<em>Full stack developer turning ideas into working code — one commit, one feature, one shipped app at a time.</em>
-</p>
+I'm a **Full-Stack Developer** passionate about building developer tools, open-source projects, and data-driven web applications. Currently building **[CommitPulse](https://github.com/sureshsuriya/commitpulse)** — a GitHub analytics platform that turns your commit history into beautiful visual insights.
 
-<p align="left">
-🌱 GSSoC 2026 Open Source Contributor &nbsp;•&nbsp; 🎯 Java Full Stack + Python/Django &nbsp;•&nbsp; 📍 Tiruchirappalli, India
-</p>
+- 🔭 &nbsp;Currently working on **CommitPulse** — GitHub analytics & visualization
+- 🌱 &nbsp;Exploring **Next.js 16**, **React 19**, and **AI-powered dev tools**
+- 💡 &nbsp;Passionate about open source, clean code, and great DX
+- 🎯 &nbsp;Goal: Build tools that make developers more productive
+- 📍 &nbsp;India
 
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suresh-p-822b43230)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshsurey4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sureshsuriya.github.io/suresh-portfolio)
+<br/>
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-**Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,python,js,php,html,css&theme=dark"/>
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark"/>
-
-</td>
-<td valign="top" width="33%">
-
-**Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,django,nodejs,mysql,mongodb&theme=dark"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="3">
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,aws&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
-## 🚀 Featured Projects
-
-**🏛️ HEPTA** — Institutional web portal (PHP + MySQL) built during my CDIS internship at Bishop Heber College.
-
-**🌾 FarmToHome** — Django REST + MongoDB agricultural marketplace connecting farmers directly with consumers.
-
-**📋 JobTrackr** — Spring Boot + React job tracker with Gmail API sync via Google OAuth.
-
-## 🏆 Achievements
-
-| Recognition | Details |
-|---|---|
-| 🥈 2nd Prize — INTERFACE 2023 | Christ University |
-| 📄 Published Researcher | IJCCT · DOI: 10.47893/IJCCT.2023.1437 |
-| 🌱 GSSoC 2026 | Django, Next.js, TypeScript repos |
-| 🎓 13+ Certifications | MS Fabric Analytics, Deloitte Forage, Kaggle AI Agents |
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=sureshsuriya&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sureshsuriya&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sureshsuriya&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sureshsuriya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=06b6d4&text_color=8b949e&rank_icon=github" height="165" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshsuriya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b949e&langs_count=8" height="165" alt="Top Languages"/>
+</div>
 
-## 🏆 GitHub Trophies
+<br/>
 
-![](https://github-profile-trophy.vercel.app/?username=sureshsuriya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshsuriya&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=06b6d4&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+</div>
 
-## 🐍 Contribution Snake
+<br/>
 
-![snake gif](https://raw.githubusercontent.com/sureshsuriya/sureshsuriya/output/github-contribution-grid-snake-dark.svg)
+## 🕹️ Contribution Graph (Pac-Man)
 
-## ✍️ Random Dev Quote
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sureshsuriya/sureshsuriya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sureshsuriya/sureshsuriya/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/sureshsuriya/sureshsuriya/output/pacman-contribution-graph-dark.svg" width="100%">
+</picture>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
+
+## 🚀 Featured Project
+
+<a href="https://github.com/sureshsuriya/commitpulse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sureshsuriya&repo=commitpulse&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b949e&icon_color=06b6d4" alt="CommitPulse"/>
+</a>
+
+<br/><br/>
+
+## 📬 Connect with Me
+
+<p>
+  <a href="https://github.com/sureshsuriya">
+    <img src="https://img.shields.io/badge/GitHub-sureshsuriya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sureshsuriya&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=sureshsuriya&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=90&section=footer" width="100%"/>
-
+  <sub>⚡ Built with passion · Open to collaboration · Let's build something awesome!</sub>
 </div>
